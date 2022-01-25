@@ -1,0 +1,23 @@
+ORDER OF OPERATIONS
+
+1. Check if inputs are valid.
+	- weights should add up to 100
+	- marks and ids should only consist of numbers
+	- unique ids should not be repeated
+	- fields must be in given order
+	- check for empty fields
+
+1a. Adjust inputs so that they are valid
+	- Remove leading and trailing spaces for string-type fields
+
+2. Parse students
+
+3. Make dictionary of courses and tests
+
+4. Iterate through marks.csv
+	-look at test id
+	-if student does not have the test id's matching course id in the records, append the new course for the student
+	-add mark to course average
+	-once you finish iterating through one student, run a total average
+	
+	
