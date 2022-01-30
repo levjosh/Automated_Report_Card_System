@@ -86,18 +86,13 @@ def convertDictToJSON(output, output_path):
         json.dump(output, file, indent=4)
 
 
-
-path_to_courses = "Example1/courses.csv"
-path_to_students = "Example1/students.csv"
-path_to_tests = "Example1/tests.csv"
-path_to_marks = "Example1/marks.csv"
-output_path = "Example1/"
+# Set path to files here
+path_to_courses = "Example2/courses.csv"
+path_to_students = "Example2/students.csv"
+path_to_tests = "Example2/tests.csv"
+path_to_marks = "Example2/marks.csv"
+output_path = "Example2/"
 all_paths = [path_to_courses, path_to_students, path_to_tests, path_to_marks]
-
-# path_to_courses = "D:/programming/MosaicAssessment/Example2/Example2/courses.csv"
-# path_to_students = "D:/programming/MosaicAssessment/Example2/Example2/students.csv"
-# path_to_tests = "D:/programming/MosaicAssessment/Example2/Example2/tests.csv"
-# path_to_marks = "D:/programming/MosaicAssessment/Example2/Example1/marks.csv"
 
 
 output = {"students": []}

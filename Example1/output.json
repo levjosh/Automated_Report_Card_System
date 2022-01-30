@@ -2,69 +2,69 @@
     "students": [
         {
             "id": "1",
-            "name": "A",
+            "name": "George Miller",
             "totalAverage": 72.03,
             "courses": [
                 {
                     "id": 1,
-                    "name": "Biology",
-                    "teacher": "Mr. D",
+                    "name": "Biology 20",
+                    "teacher": "Mr. Adams",
                     "courseAverage": 90.1
                 },
                 {
                     "id": 2,
-                    "name": "History",
-                    "teacher": "Mrs. P",
+                    "name": "Social Studies 20-2",
+                    "teacher": "Mrs. Perth",
                     "courseAverage": 51.8
                 },
                 {
                     "id": 3,
-                    "name": "Math",
-                    "teacher": "Mrs. c",
+                    "name": "Math 20-1",
+                    "teacher": "Mrs. Flannigan",
                     "courseAverage": 74.2
                 }
             ]
         },
         {
             "id": "2",
-            "name": "B",
+            "name": "Samantha Perez",
             "totalAverage": 62.15,
             "courses": [
                 {
                     "id": 1,
-                    "name": "Biology",
-                    "teacher": "Mr. D",
+                    "name": "Biology 20",
+                    "teacher": "Mr. Adams",
                     "courseAverage": 50.1
                 },
                 {
                     "id": 3,
-                    "name": "Math",
-                    "teacher": "Mrs. c",
+                    "name": "Math 20-1",
+                    "teacher": "Mrs. Flannigan",
                     "courseAverage": 74.2
                 }
             ]
         },
         {
             "id": "3",
-            "name": "C",
+            "name": "Tim Cook",
             "totalAverage": 72.23,
             "courses": [
                 {
                     "id": 1,
-                    "name": "Biology",
-                    "teacher": "Mr. D",
+                    "name": "Biology 20",
+                    "teacher": "Mr. Adams",
                     "courseAverage": 90.1
                 },
                 {
                     "id": 2,
-                    "name": "History",
-                    "teacher": "Mrs. P",
+                    "name": "Social Studies 20-2",
+                    "teacher": "Mrs. Perth",
                     "courseAverage": 51.8
                 },
                 {
                     "id": 3,
-                    "name": "Math",
-                    "teacher": "Mrs. c",
+                    "name": "Math 20-1",
+                    "teacher": "Mrs. Flannigan",
                     "courseAverage": 74.8
                 }
             ]

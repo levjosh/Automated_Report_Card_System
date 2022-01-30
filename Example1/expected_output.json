@@ -1,73 +1,73 @@
 {
   "students": [
-    {
-      "id": 1,
-      "name": "A",
-      "totalAverage": 72.03,
-      "courses": [
-        {
-          "id": 1,
-          "name": "Biology",
-          "teacher": "Mr. D",
-          "courseAverage": 90.1
-        },
-        {
-          "id": 3,
-          "name": "Math",
-          "teacher": "Mrs. C",
-          "courseAverage": 74.2
-        },
-        {
-          "id": 2,
-          "name": "History",
-          "teacher": "Mrs. P",
-          "courseAverage": 51.8
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "B",
-      "totalAverage": 62.15,
-      "courses": [
-        {
-          "id": 1,
-          "name": "Biology",
-          "teacher": "Mr. D",
-          "courseAverage": 50.1
-        },
-        {
-          "id": 3,
-          "name": "Math",
-          "teacher": "Mrs. C",
-          "courseAverage": 74.2
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "C",
-      "totalAverage": 72.03,
-      "courses": [
-        {
-          "id": 1,
-          "name": "Biology",
-          "teacher": "Mr. D",
-          "courseAverage": 90.1
-        },
-        {
-          "id": 2,
-          "name": "History",
-          "teacher": "Mrs. P",
-          "courseAverage": 51.8
-        },
-        {
-          "id": 3,
-          "name": "Math",
-          "teacher": "Mrs. C",
-          "courseAverage": 74.2
-        }
-      ]
-    }
+      {
+          "id": "1",
+          "name": "George Miller",
+          "totalAverage": 72.03,
+          "courses": [
+              {
+                  "id": 1,
+                  "name": "Biology 20",
+                  "teacher": "Mr. Adams",
+                  "courseAverage": 90.1
+              },
+              {
+                  "id": 2,
+                  "name": "Social Studies 20-2",
+                  "teacher": "Mrs. Perth",
+                  "courseAverage": 51.8
+              },
+              {
+                  "id": 3,
+                  "name": "Math 20-1",
+                  "teacher": "Mrs. Flannigan",
+                  "courseAverage": 74.2
+              }
+          ]
+      },
+      {
+          "id": "2",
+          "name": "Samantha Perez",
+          "totalAverage": 62.15,
+          "courses": [
+              {
+                  "id": 1,
+                  "name": "Biology 20",
+                  "teacher": "Mr. Adams",
+                  "courseAverage": 50.1
+              },
+              {
+                  "id": 3,
+                  "name": "Math 20-1",
+                  "teacher": "Mrs. Flannigan",
+                  "courseAverage": 74.2
+              }
+          ]
+      },
+      {
+          "id": "3",
+          "name": "Tim Cook",
+          "totalAverage": 72.23,
+          "courses": [
+              {
+                  "id": 1,
+                  "name": "Biology 20",
+                  "teacher": "Mr. Adams",
+                  "courseAverage": 90.1
+              },
+              {
+                  "id": 2,
+                  "name": "Social Studies 20-2",
+                  "teacher": "Mrs. Perth",
+                  "courseAverage": 51.8
+              },
+              {
+                  "id": 3,
+                  "name": "Math 20-1",
+                  "teacher": "Mrs. Flannigan",
+                  "courseAverage": 74.8
+              }
+          ]
+      }
   ]
 }
